@@ -10,7 +10,7 @@ Este repositorio contiene implementaciones prácticas que exploran diferentes li
 - **Matplotlib**: Creación de visualizaciones estáticas, como gráficos de líneas, barras, dispersión, entre otros.
 - **Seaborn**: Visualización avanzada de datos con Seaborn, que facilita la creación de gráficos estadísticos como diagramas de cajas y mapas de calor.
 - **Scikit-learn**: Uso de las funciones de scikit-learn para implementar algoritmos de machine learning como clasificación, regresión, y clustering.
-- 
+  
 ## Deep Learning
 
 - **Keras**: Implementación de redes neuronales utilizando Keras, incluyendo la construcción de redes secuenciales y complejas.
