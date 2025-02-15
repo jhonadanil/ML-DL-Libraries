@@ -35,6 +35,8 @@ pip install -r requirements.txt
 ```
 3.- Navega y abre los notebooks en Jupyter o VSCode.
 
+
+
 Contacto:
 
 Email: jhonyprius@gmail.com
