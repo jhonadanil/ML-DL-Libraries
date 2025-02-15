@@ -27,12 +27,12 @@ Este repositorio contiene implementaciones prácticas que exploran diferentes li
 
 ```bash
 git clone https://github.com/tuusuario/librerias-ml-dl-cv.git
-
+```
 2.-Instalar dependencias:
 
 ´´´bash
 pip install -r requirements.txt
-
+```
 3.- Navega y abre los notebooks en Jupyter o VSCode.
 
 Contacto:
