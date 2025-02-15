@@ -38,4 +38,5 @@ pip install -r requirements.txt
 Contacto:
 
 Email: jhonyprius@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/danilchuk-jhonatan/
